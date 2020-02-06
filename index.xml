@@ -1,63 +1,63 @@
 <?xml-stylesheet href="test.css"?>
 <SETLIST>
   <SONG>
-    <TITLE>Work</TITLE>
-    <ARTIST>Charlotte Day Wilson</ARTIST>
-    <GENRE>R and B</GENRE>
-    <YEAR>2016</YEAR>
+    <TITLE>Work\n</TITLE>
+    <ARTIST>Charlotte Day Wilson\n</ARTIST>
+    <GENRE>"R&B"\n</GENRE>
+    <YEAR>2016\n</YEAR>
   </SONG>
   <SONG>
-    <TITLE>In My Room</TITLE>
-    <ARTIST>Frank Ocean</ARTIST>
-    <GENRE>R and B</GENRE>
-    <YEAR>2019</YEAR>
+    <TITLE>In My Room\n</TITLE>
+    <ARTIST>Frank Ocean\n</ARTIST>
+    <GENRE>"R&B"\n</GENRE>
+    <YEAR>2019\n</YEAR>
   </SONG>
   <SONG>
-    <TITLE>Ribs</TITLE>
-    <ARTIST>Lorde</ARTIST>
-    <GENRE>Indie</GENRE>
-    <YEAR>2013</YEAR>
+    <TITLE>Ribs\n</TITLE>
+    <ARTIST>Lorde\n</ARTIST>
+    <GENRE>Indie\n</GENRE>
+    <YEAR>2013\n</YEAR>
   </SONG>
   <SONG>
-    <TITLE>Same Drugs</TITLE>
-    <ARTIST>Chance the Rapper</ARTIST>
-    <GENRE>Rap</GENRE>
-    <YEAR>2016</YEAR>
+    <TITLE>Same Drugs\n</TITLE>
+    <ARTIST>Chance the Rapper\n</ARTIST>
+    <GENRE>Rap\n</GENRE>
+    <YEAR>2016\n</YEAR>
   </SONG>
   <SONG>
-    <TITLE>Fake Smie</TITLE>
-    <ARTIST>Ariana Grande</ARTIST>
-    <GENRE>Pop</GENRE>
-    <YEAR>2019</YEAR>
+    <TITLE>Fake Smile\n</TITLE>
+    <ARTIST>Ariana Grande\n</ARTIST>
+    <GENRE>Pop\n</GENRE>
+    <YEAR>2019\n</YEAR>
   </SONG>
   <SONG>
-    <TITLE>How Do You Sleep?</TITLE>
-    <ARTIST>Sam Smith</ARTIST>
-    <GENRE>Pop</GENRE>
-    <YEAR>2019</YEAR>
+    <TITLE>How Do You Sleep?\n</TITLE>
+    <ARTIST>Sam Smith\n</ARTIST>
+    <GENRE>Pop\n</GENRE>
+    <YEAR>2019\n</YEAR>
   </SONG>
   <SONG>
-    <TITLE>Nobody</TITLE>
-    <ARTIST>Mitski</ARTIST>
-    <GENRE>Indie</GENRE>
-    <YEAR>2018</YEAR>
+    <TITLE>Nobody\n</TITLE>
+    <ARTIST>Mitski\n</ARTIST>
+    <GENRE>Indie\n</GENRE>
+    <YEAR>2018\n</YEAR>
   </SONG>
   <SONG>
-    <TITLE>Crumble</TITLE>
-    <ARTIST>Kevin Abstract</ARTIST>
-    <GENRE>Pop</GENRE>
-    <YEAR>2019</YEAR>
+    <TITLE>Crumble\n</TITLE>
+    <ARTIST>Kevin Abstract\n</ARTIST>
+    <GENRE>Pop\n</GENRE>
+    <YEAR>2019\n</YEAR>
   </SONG>
   <SONG>
-    <TITLE>i can't breathe</TITLE>
-    <ARTIST>Bea Miller</ARTIST>
-    <GENRE>Pop</GENRE>
-    <YEAR>2017</YEAR>
+    <TITLE>i can't breathe\n</TITLE>
+    <ARTIST>Bea Miller\n</ARTIST>
+    <GENRE>Pop\n</GENRE>
+    <YEAR>2017\n</YEAR>
   </SONG>
   <SONG>
-    <TITLE>Say So</TITLE>
-    <ARTIST>Doja Cat</ARTIST>
-    <GENRE>R and B</GENRE>
-    <YEAR>2019</YEAR>
+    <TITLE>Say So\n</TITLE>
+    <ARTIST>Doja Cat\n</ARTIST>
+    <GENRE>"R&B"\n</GENRE>
+    <YEAR>2019\n</YEAR>
   </SONG>
 </SETLIST>
