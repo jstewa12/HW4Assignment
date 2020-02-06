@@ -1,10 +1,12 @@
 <?xml-stylesheet href="test.css"?>
 <SETLIST>
   <HEADER>
-    SET LIST FOR COVERTHEEBAND <br />
+    SET LIST FOR COVERTHEEBAND
   </HEADER>
   <SONG>
-    <TITLE>Work</TITLE><br />
+    <TITLE>
+      Work
+    </TITLE><br />
     <ARTIST>Charlotte Day Wilson<br></ARTIST>
     <GENRE>R and B\n</GENRE>
     <YEAR>2016\n</YEAR>
