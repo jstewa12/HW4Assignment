@@ -1,6 +1,8 @@
 <?xml-stylesheet href="test.css"?>
 <SETLIST>
-  <HEADER>SET LIST FOR COVERTHEEBAND</HEADER>
+  <HEADER>
+    SET LIST FOR COVERTHEEBAND <br />
+  </HEADER>
   <SONG>
     <TITLE>Work</TITLE><br />
     <ARTIST>Charlotte Day Wilson<br></ARTIST>
