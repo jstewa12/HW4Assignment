@@ -1,6 +1,7 @@
 SETLIST {color:tomato; font-family:"Book Antiqua"; text-align:center; font-size:28px; font-weight:bold;}
 HEADER {border-bottom:3px dashed red;}
 SONG {font-size:14px; font-weight:bold;}
+TITLE {color:#FFA500;}
 ARTIST {color:#90EE90;}
 GENRE {color:#FFB6C1;}
 YEAR {color:#87CEFA;}
