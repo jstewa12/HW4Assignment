@@ -2,10 +2,10 @@ SETLIST {color:#000;
          font-family:"Book Antiqua"; 
          text-align:center; 
          font-size:28px;
-         font-weight:bold; 
-         text-decoration: underline;
+         font-weight:bold;
          display:block;}
-HEADER {display:block;}
+HEADER {display:block;
+        text-decoration: underline;}
 SONG {font-size:14px; 
       font-weight:bold;}
 TITLE {color:#FF5454; 
