@@ -4,4 +4,4 @@ SONG {font-size:14px; font-weight:bold;}
 TITLE {color:#FF5454; display:table-row;}
 ARTIST {color:#90EE90; display:table-row;}
 GENRE {color:#FFB6C1; display:table-row;}
-YEAR {color:#87CEFA; display:table-row;}
+YEAR {color:#87CEFA; display:block;}
