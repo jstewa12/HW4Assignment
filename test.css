@@ -1,4 +1,3 @@
-// DISPLAY: BLOCK TO PUT THINGS ON THEIR OWN LINE
 SETLIST {color:tomato; font-family:"Book Antiqua"; text-align:center; font-size:28px; font-weight:bold; display:block;}
 HEADER {border-bottom:3px dashed red; display:block;}
 SONG {font-size:14px; font-weight:bold; display:block;}
