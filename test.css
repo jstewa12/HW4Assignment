@@ -1,8 +1,8 @@
 // DISPLAY: BLOCK TO PUT THINGS ON THEIR OWN LINE
-SETLIST {color:tomato; font-family:"Book Antiqua"; text-align:center; font-size:28px; font-weight:bold;}
-HEADER {border-bottom:3px dashed red;}
-SONG {font-size:14px; font-weight:bold;}
-TITLE {color:#000000;}
-ARTIST {color:#90EE90;}
-GENRE {color:#FFB6C1;}
-YEAR {color:#87CEFA;}
+SETLIST {color:tomato; font-family:"Book Antiqua"; text-align:center; font-size:28px; font-weight:bold; display:block;}
+HEADER {border-bottom:3px dashed red; display:block;}
+SONG {font-size:14px; font-weight:bold; display:block;}
+TITLE {color:#000000; display:block;}
+ARTIST {color:#90EE90; display:block;}
+GENRE {color:#FFB6C1; display:block;}
+YEAR {color:#87CEFA; display:block;}
